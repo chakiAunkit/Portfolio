@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
     {
-        title: "Web Developer",
+        title: "Data Analysis",
         icon: web,
     },
     {
-        title: "React Native Developer",
+        title: "Machine Learning",
         icon: mobile,
     },
     {
-        title: "Backend Developer",
+        title: "Deep Learning",
         icon: backend,
     },
     {
-        title: "Content Creator",
+        title: "Data Science",
         icon: creator,
     },
 ];
@@ -176,7 +176,8 @@ const testimonials = [
         name: "Sara Lee",
         designation: "CFO",
         company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+        image: "https://th.bing.com/th?id=ODLS.b5fb1f64-8ad9-4d0c-991d-7ec0bd490bf8&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+        source_code_link: 'https://www.researchgate.net/publication/351948701_Improved_U-Net_architecture_with_VGG-16_for_brain_tumor_segmentation'
     },
     {
         testimonial:
@@ -184,16 +185,17 @@ const testimonials = [
         name: "Chris Brown",
         designation: "COO",
         company: "DEF Corp",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+        image: "https://th.bing.com/th?id=ODLS.b5fb1f64-8ad9-4d0c-991d-7ec0bd490bf8&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+        source_code_link: 'https://www.researchgate.net/publication/350591192_Cyberbully_Detection_Using_1D-CNN_and_LSTM'
     },
-    {
-        testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
+    // {
+    //     testimonial:
+    //         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    //     name: "Lisa Wang",
+    //     designation: "CTO",
+    //     company: "456 Enterprises",
+    //     image: "https://randomuser.me/api/portraits/women/6.jpg",
+    // },
 ];
 
 const projects = [
